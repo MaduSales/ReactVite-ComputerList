@@ -1,17 +1,11 @@
-# Lista de Computadores Ficctícios
-
-<br>
-<br>
-Imagem do projeto: https://github.com/MaduSales/NavBar-ReactVite/assets/166547195/510bc3ea-3de8-4e64-86a2-500fa6222f8f
-
-
+# Lista de Computadores Fictícios
 
 <br>
 <br>
 
 <br>
 
-Projeto feito com HTML, CSS, JavaScript, React.JS e Git de uma simples barra de navegação que possui dois modos para visualização.
+Projeto feito com HTML, CSS, JavaScript, React.JS e Git de um um teste simples, do qual fiz uma lista de computadores fictícios com algumas informações básicas de cada um.
 <br>
 <br>
 <br>
@@ -22,8 +16,7 @@ Projeto construído durante o curso PROPROFISSÃO do Instituto PROA
 
  Acesso
 <br>
-
-https://madusales.github.io/NavBar-ReactVite/
+https://madusales.github.io/ReactVite-ComputerList/
 <br>
 <br>
 <br>
